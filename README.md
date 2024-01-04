@@ -19,3 +19,5 @@ This project explores the 1985 Ward's Automotive Yearbook dataset using predicti
 * automobile-prediction.ipynb: Jupyter notebook containing the core analysis and modeling code.
 * Data Science- Major Project.pdf: Project background, theoretical context, and detailed methodology explanation.
 * Automobile_data.csv: Raw dataset containing car specifications, risk ratings, price and normalized losses etc.
+  
+This project provides a comprehensive framework for exploring the Automobile_data.csv dataset through predictive modeling, offering valuable learning opportunities and potential for further research and application.
