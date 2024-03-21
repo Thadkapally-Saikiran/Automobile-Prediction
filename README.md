@@ -4,7 +4,7 @@
 This project delves into the world of automobile insurance risk assessment using a unique dataset from the 1985 Ward's Automotive Yearbook. The data offers a comprehensive picture of various car characteristics, along with assigned insurance risk ratings and normalized loss information and has the potential to be beneficial for both insurance companies and consumers. Insurance companies could utilize the model to refine their risk assessment processes, leading to more accurate pricing. Consumers, on the other hand, could gain valuable insights into the potential insurance costs associated with different cars before making a purchase. The project aims to leverage this data to develop a predictive model. This model will analyze the car's specifications and predict its insurance risk rating and potential losses. 
 
 ## Data Sources
-
+The data for this project originates from Unschool, accessed during my basic data science coursework. The dataset is included within this repository 👉[Automobile_data.csv]()
 
 ## Goals:
 * Develop machine learning models to predict 'insurance risk ratings' and average expected 'price' for different car categories.
