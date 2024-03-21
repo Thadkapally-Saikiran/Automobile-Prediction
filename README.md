@@ -42,7 +42,7 @@ The data for this project originates from Unschool, accessed during my basic dat
    - Train-Test Splitting
    - Performance Metrics (accuracy, precision, recall, F1-score)
 
-![](
+![](automobile_gif1.gif)
 
 ## Project Files:
 * automobile-prediction.ipynb: Jupyter notebook containing the core analysis and modeling code.
