@@ -44,7 +44,16 @@ The data for this project originates from Unschool, accessed during my basic dat
 
 ![](automobile_gif1.gif)           |       ![](automobile_gif2.gif)
 
-## Project Files:
+## Visualization
+
+Correlation Heatmap  
+---
+![](correlation_heatmap.png)
+
+## Recommendations
+
+
+## Project Files
 * automobile-prediction.ipynb: Jupyter notebook containing the core analysis and modeling code.
 * Data Science- Major Project.pdf: Project background, theoretical context, and detailed methodology explanation.
 * Automobile_data.csv: Raw dataset containing car specifications, risk ratings, price and normalized losses etc.
