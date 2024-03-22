@@ -1,4 +1,4 @@
-# Predicting Automobile Insurance Risk and Price with Machine Learning
+## Predicting Automobile Insurance Risk and Price with Machine Learning
 
 ![](automobile.jpg)
 
