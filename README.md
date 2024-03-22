@@ -42,7 +42,6 @@ The data for this project originates from Unschool, accessed during my basic dat
    - Train-Test Splitting
    - Performance Metrics (accuracy, precision, recall, F1-score)
 
-![](automobile_gif1.gif)           |       ![](automobile_gif2.gif)
 
 ## Visualization
 
@@ -62,12 +61,22 @@ Correlation Heatmap
 
 By following these recommendations, the automobile industry can work together with insurance companies to make cars safer and more affordable for consumers.
 
+![](automobile_gif1.gif)           |       ![](automobile_gif2.gif)
+
 ## Project Files
 * automobile-prediction.ipynb: Jupyter notebook containing the core analysis and modeling code.
 * Data Science- Major Project.pdf: Project background, theoretical context, and detailed methodology explanation.
 * Automobile_data.csv: Raw dataset containing car specifications, risk ratings, price and normalized losses etc.
   
 This project provides a comprehensive framework for exploring the Automobile_data.csv dataset through predictive modeling, offering valuable learning opportunities and potential for further research and application.
+
+## References
+1. [Machine Learning Algorithms](https://www.kaggle.com/code/marcovasquez/top-machine-learning-algorithms-beginner)
+2. [Python Docs](https://docs.python.org/3/tutorial/)
+3. [Pandas](https://pandas.pydata.org/docs/)
+4. [Matplotlib](https://matplotlib.org/stable/users/getting_started/)
+5. [Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
+6. [scikit-learn](https://scikit-learn.org/stable/getting_started.html)
 
 💻 Tech Stack
 
