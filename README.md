@@ -1,4 +1,4 @@
-# Predicting Automobile Risk Beyond Price
+# Predicting Automobile Risk and Price with Machine Learning
 
 ![](automobile.jpg)
 
