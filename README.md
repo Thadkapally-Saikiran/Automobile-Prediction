@@ -59,6 +59,7 @@ Correlation Heatmap
   - Telematics is a technology that uses data from a vehicle's sensors to track its location, mileage, and driving behavior.  This data can be used by insurance companies to provide more personalized rates to drivers.  Car manufacturers could look into embedding telematics technology into their cars as an optional feature. This would allow insurance companies to offer pay-as-you-drive policies to responsible drivers, further reducing insurance costs.
 - Partner with insurance companies:
   - Car manufacturers can partner with insurance companies to develop data-driven safety programs.  These programs could offer discounts to consumers who choose cars with certain safety features or who opt to enroll in telematics-based insurance programs.
+
 By following these recommendations, the automobile industry can work together with insurance companies to make cars safer and more affordable for consumers.
 
 ## Project Files
