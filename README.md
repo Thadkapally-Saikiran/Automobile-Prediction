@@ -51,7 +51,15 @@ Correlation Heatmap
 ![](correlation_heatmap.png)
 
 ## Recommendations
-
+- Focus on safety features:
+  - The analysis shows that car features such as wheelbase, length, width, and height are important factors influencing insurance risk ratings. This suggests that designing cars with these features in mind,  could lead to lower insurance premiums for consumers. Manufacturers should prioritize incorporating safety features like anti-lock braking systems (ABS), electronic stability control (ESC), and airbags into their vehicles.
+- Improve fuel efficiency:
+  - Fuel efficiency is another significant factor affecting insurance costs.  Car manufacturers should invest in research and development to improve the fuel efficiency of their cars. This will not only benefit consumers by lowering insurance premiums but also reduce environmental impact.
+- Develop telematics technology:
+  - Telematics is a technology that uses data from a vehicle's sensors to track its location, mileage, and driving behavior.  This data can be used by insurance companies to provide more personalized rates to drivers.  Car manufacturers could look into embedding telematics technology into their cars as an optional feature. This would allow insurance companies to offer pay-as-you-drive policies to responsible drivers, further reducing insurance costs.
+- Partner with insurance companies:
+  - Car manufacturers can partner with insurance companies to develop data-driven safety programs.  These programs could offer discounts to consumers who choose cars with certain safety features or who opt to enroll in telematics-based insurance programs.
+By following these recommendations, the automobile industry can work together with insurance companies to make cars safer and more affordable for consumers.
 
 ## Project Files
 * automobile-prediction.ipynb: Jupyter notebook containing the core analysis and modeling code.
