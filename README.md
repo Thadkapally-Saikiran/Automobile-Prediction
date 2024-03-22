@@ -2,13 +2,13 @@
 
 ![](automobile.jpg)
 
-## Project Overview
+### Project Overview
 This project delves into the world of automobile insurance risk assessment using a unique dataset from the 1985 Ward's Automotive Yearbook. The data offers a comprehensive picture of various car characteristics, along with assigned insurance risk ratings and normalized loss information and has the potential to be beneficial for both insurance companies and consumers. Insurance companies could utilize the model to refine their risk assessment processes, leading to more accurate pricing. Consumers, on the other hand, could gain valuable insights into the potential insurance costs associated with different cars before making a purchase. The project aims to leverage this data to develop a predictive model. This model will analyze the car's specifications and predict its insurance risk rating and potential losses. 
 
-## Data Sources
+### Data Sources
 The data for this project originates from Unschool, accessed during my basic data science coursework. The dataset is included within this repository 👉[Automobile_data.csv](https://github.com/Thadkapally-Saikiran/Automobile-Prediction/blob/main/Automobile_data.csv)
 
-## Problem Statement
+### Problem Statement
 1. Predicting Insurance Risk and Cost
    - Develop machine learning models to predict both categorical insurance risk ratings and continuous average expected insurance prices for various car categories.
 2. Understanding Key Risk Factors
@@ -20,7 +20,7 @@ The data for this project originates from Unschool, accessed during my basic dat
 5. Data Visualization and Interpretation
    - Create clear and informative visualizations to effectively communicate the findings of the machine learning models. This will help explain the driving factors behind the predicted insurance risk and cost for different car categories.
 
-## Skills/Concepts Demonstrated
+### Skills/Concepts Demonstrated
 1. Data Preprocessing:
    - Data Cleaning Techniques (handling missing values, outliers)
    - Exploratory Data Analysis (EDA) with statistical methods and visualization libraries
@@ -43,13 +43,13 @@ The data for this project originates from Unschool, accessed during my basic dat
    - Performance Metrics (accuracy, precision, recall, F1-score)
 
 
-## Visualization
+### Visualization
 
 Correlation Heatmap  
 ---
 ![](correlation_heatmap.png)
 
-## Recommendations
+### Recommendations
 - Focus on safety features:
   - The analysis shows that car features such as wheelbase, length, width, and height are important factors influencing insurance risk ratings. This suggests that designing cars with these features in mind,  could lead to lower insurance premiums for consumers. Manufacturers should prioritize incorporating safety features like anti-lock braking systems (ABS), electronic stability control (ESC), and airbags into their vehicles.
 - Improve fuel efficiency:
@@ -63,14 +63,14 @@ By following these recommendations, the automobile industry can work together wi
 
 ![](automobile_gif1.gif)           |       ![](automobile_gif2.gif)
 
-## Project Files
+### Project Files
 * automobile-prediction.ipynb: Jupyter notebook containing the core analysis and modeling code.
 * Data Science- Major Project.pdf: Project background, theoretical context, and detailed methodology explanation.
 * Automobile_data.csv: Raw dataset containing car specifications, risk ratings, price and normalized losses etc.
   
 This project provides a comprehensive framework for exploring the Automobile_data.csv dataset through predictive modeling, offering valuable learning opportunities and potential for further research and application.
 
-## References
+### References
 1. [Machine Learning Algorithms](https://www.kaggle.com/code/marcovasquez/top-machine-learning-algorithms-beginner)
 2. [Python Docs](https://docs.python.org/3/tutorial/)
 3. [Pandas](https://pandas.pydata.org/docs/)
