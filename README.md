@@ -1,4 +1,4 @@
-# Automobile Prediction using Machine Learning and Python
+# Predicting Automobile Risk Beyond Price
 
 ![](automobile.jpg)
 
